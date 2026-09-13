@@ -22,10 +22,10 @@ Entering the combined BS–MS program in Fall 2026.
 
 ## 🔬 Research Interests
 
-<img src="https://img.shields.io/badge/Camera%E2%80%93Radar%20Fusion-2E4560?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Knowledge%20Distillation-2F4A3A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BEV%20Perception-433C57?style=for-the-badge" />
-<img src="https://img.shields.io/badge/On--Vehicle%20Deployment-5A3B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Camera%E2%80%93Radar%20Fusion-2E4560?style=flat-square" />
+<img src="https://img.shields.io/badge/Knowledge%20Distillation-2F4A3A?style=flat-square" />
+<img src="https://img.shields.io/badge/BEV%20Perception-433C57?style=flat-square" />
+<img src="https://img.shields.io/badge/On--Vehicle%20Deployment-5A3B35?style=flat-square" />
 
 - **Camera–radar sensor fusion** — BEV-space feature alignment under sparse and noisy radar returns
 - **Cross-modal knowledge distillation** — transferring camera/LiDAR geometric priors into radar-centric inference
