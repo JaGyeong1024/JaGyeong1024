@@ -86,10 +86,9 @@ Entering the combined BS–MS program in Fall 2026.
   <tr>
     <th align="right">Sensors</th>
     <td>
-      <img src="https://img.shields.io/badge/Velodyne%20VLP--16-243447?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Livox%20Horizon-2E4560?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Mono%20Camera-433C57?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/LiDAR-243447?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Radar-2F4A3A?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Camera-433C57?style=for-the-badge" />
     </td>
   </tr>
   <tr>
