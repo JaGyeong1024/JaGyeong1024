@@ -28,11 +28,11 @@
 **[Multi-Rover Factory Control](https://github.com/JaGyeong1024/Multi-Rover-Localization-and-Factory-Control)** <sub>2025.09 – 2026.06</sub> — Capstone design, team lead: host-side localization and control for a leader–follower rover fleet, fusing UWB, ceiling-camera (YOLO11n-OBB) and IMU with an EKF, plus a real-time web control dashboard.<br>
 `ROS 2 Humble` · `EKF` · `UWB · Camera · IMU`
 
-**KSAE FSD 2025** <sub>2025.09 – 2025.11 · Simulation</sub> — Perception: camera–LiDAR detection and fusion for the team's autonomous vehicle.<br>
-`Camera–LiDAR Fusion`
-
 **[Emergency Vehicle Warning System](https://github.com/JaGyeong1024/Satellite-Navigation-System-Project)** <sub>2026.04 – 2026.05</sub> — Course project (Satellite Navigation Systems), team lead: warns when an emergency vehicle is approaching in the same lane behind, from RTK / DGPS trajectories logged with a u-blox ZED-F9P and replayed on a map.<br>
 `GNSS / RTK` · `u-blox ZED-F9P` · `Python`
+
+**KSAE FSD 2025** <sub>2025.09 – 2025.11 · Simulation</sub> — Perception: camera–LiDAR detection and fusion for the team's autonomous vehicle.<br>
+`Camera–LiDAR Fusion`
 
 **[Sensor Fusion Performance Comparison](https://github.com/JaGyeong1024/UROP-Sensor-Fusion-Performance-Comparison)** <sub>2025.03 – 2025.06</sub> — Independent UROP study comparing camera–LiDAR fusion strategies on an OC-SORT tracking pipeline, with ONNX export for deployment.<br>
 `PyTorch` · `ONNX` · `KITTI` · `Camera–LiDAR`
