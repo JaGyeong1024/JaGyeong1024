@@ -55,9 +55,14 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
-
 <table>
+  <tr>
+    <th align="right">Language</th>
+    <td>
+      <img src="https://img.shields.io/badge/Python-2E4560?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-243447?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    </td>
+  </tr>
   <tr>
     <th align="right">AI / ML</th>
     <td>
