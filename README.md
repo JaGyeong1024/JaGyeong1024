@@ -23,7 +23,7 @@
 
 ---
 
-## 📦 Projects
+## 🚗 Projects
 
 **[HL FMA 2026 (Future Mobility Award)](https://github.com/JaGyeong1024/2026-HL-FMA-VTD)** <sub>2026.08.13 – 2026.09.12 · Simulation</sub> — Team lead, system architecture and Autoware integration: an Autoware stack driving in the VTD simulator over a custom ROS 2 `vtd_autoware_bridge`, with route injection, traffic-light handling, a control watchdog and mock regression tests.<br>
 `Autoware` · `ROS 2` · `VTD`
