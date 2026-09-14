@@ -12,8 +12,8 @@
 
 <img src="https://img.shields.io/badge/ML--based%20Multi--Modal%20Sensor%20Fusion%20(Camera%20%C2%B7%20LiDAR%20%C2%B7%20Radar)-2E4560?style=for-the-badge" height="32" /><br>
 <img src="https://img.shields.io/badge/Edge%20Deployment-2F4A3A?style=for-the-badge" height="32" />
-<img src="https://img.shields.io/badge/Inference%20Optimization-433C57?style=for-the-badge" height="32" />
-<img src="https://img.shields.io/badge/Digital%20Twin-5A3B35?style=for-the-badge" height="32" />
+&nbsp;<img src="https://img.shields.io/badge/Inference%20Optimization-433C57?style=for-the-badge" height="32" />
+&nbsp;<img src="https://img.shields.io/badge/Digital%20Twin-5A3B35?style=for-the-badge" height="32" />
 
 ---
 
