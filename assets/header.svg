@@ -20,10 +20,11 @@
       <ellipse cx="760" cy="30" rx="180" ry="120" fill="#7A5C9E" fill-opacity="0.55"/>
       <ellipse cx="680" cy="190" rx="150" ry="90" fill="#2FA88A" fill-opacity="0.35"/>
     </g>
-    <rect x="40" y="34" width="740" height="132" rx="18" fill="url(#glass)" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
-    <rect x="58" y="34.5" width="704" height="1" fill="url(#edge)"/>
-    <text x="76" y="86" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#F4F7FA" letter-spacing="0.5">Jagyeong Gu</text>
-    <text x="76" y="115" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#8FE8C6" letter-spacing="0.3">Multi-modal sensor fusion &amp; edge deployment for autonomous driving</text>
-    <text x="76" y="138" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#B7C3D2" letter-spacing="0.2">BS&#8211;MS student &#183; AVLab &#183; Dept. of Intelligent Systems and Robotics &#183; Chungbuk National University</text>
+    <rect x="40" y="32" width="740" height="142" rx="18" fill="url(#glass)" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1"/>
+    <rect x="58" y="32.5" width="704" height="1" fill="url(#edge)"/>
+    <text x="76" y="80" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#F4F7FA" letter-spacing="0.5">Jagyeong Gu</text>
+    <text x="76" y="108" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#8FE8C6" letter-spacing="0.3">Multi-modal sensor fusion &amp; edge deployment for autonomous driving</text>
+    <text x="76" y="130" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" fill="#B7C3D2" letter-spacing="0.2">BS&#8211;MS student &#183; AVLab &#183; Dept. of Intelligent Systems and Robotics &#183; Chungbuk National University</text>
+    <text x="76" y="153" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" fill="#9FB0C3" letter-spacing="0.3">wkrud4431@chungbuk.ac.kr</text>
   </g>
 </svg>

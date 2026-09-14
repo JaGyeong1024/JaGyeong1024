@@ -2,12 +2,6 @@
 
 <img src="assets/header.svg" alt="Jagyeong Gu — Multi-modal sensor fusion & edge deployment for autonomous driving" width="820" />
 
-<br><br>
-
-<a href="mailto:wkrud4431@chungbuk.ac.kr">
-  <img src="https://img.shields.io/badge/wkrud4431%40chungbuk.ac.kr-2F4A3A?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
-</a>
-
 </div>
 
 <br>
@@ -16,10 +10,10 @@
 
 ## 🔬 Research Interests
 
-<img src="https://img.shields.io/badge/ML--based%20Multi--Modal%20Sensor%20Fusion%20(Camera%20%C2%B7%20LiDAR%20%C2%B7%20Radar)-2E4560?style=flat-square" height="28" /><br>
-<img src="https://img.shields.io/badge/Edge%20Deployment-2F4A3A?style=flat-square" height="28" />
-<img src="https://img.shields.io/badge/Inference%20Optimization-433C57?style=flat-square" height="28" />
-<img src="https://img.shields.io/badge/Digital%20Twin-5A3B35?style=flat-square" height="28" />
+<img src="https://img.shields.io/badge/ML--based%20Multi--Modal%20Sensor%20Fusion%20(Camera%20%C2%B7%20LiDAR%20%C2%B7%20Radar)-2E4560?style=for-the-badge" height="32" /><br>
+<img src="https://img.shields.io/badge/Edge%20Deployment-2F4A3A?style=for-the-badge" height="32" />
+<img src="https://img.shields.io/badge/Inference%20Optimization-433C57?style=for-the-badge" height="32" />
+<img src="https://img.shields.io/badge/Digital%20Twin-5A3B35?style=for-the-badge" height="32" />
 
 ---
 
