@@ -25,22 +25,22 @@
 
 ## 📦 Projects
 
-**[HL FMA 2026 (Future Mobility Award) (SIM) (2026.08.13.~2026.09.12)](https://github.com/JaGyeong1024/2026-HL-FMA-VTD)** — Team lead, system architecture and Autoware integration: an Autoware stack driving in the VTD simulator over a custom ROS 2 `vtd_autoware_bridge`, with route injection, traffic-light handling, a control watchdog and mock regression tests.<br>
+**[HL FMA 2026 (Future Mobility Award)](https://github.com/JaGyeong1024/2026-HL-FMA-VTD)** <sub>2026.08.13 – 2026.09.12 · Simulation</sub> — Team lead, system architecture and Autoware integration: an Autoware stack driving in the VTD simulator over a custom ROS 2 `vtd_autoware_bridge`, with route injection, traffic-light handling, a control watchdog and mock regression tests.<br>
 `Autoware` · `ROS 2` · `VTD`
 
-**[SEA:ME Hackathon 2026 (2026.07.14.~2026.07.16.)](https://github.com/JaGyeong1024/SEA-ME-Hackathon-Clothoid-S)** — Team lead, system architecture and perception for a camera-only scale car on a Telechips TOPST board: sign, lane and ArUco detectors in a single ROS 2 perception node with a control watchdog; YOLO26 also brought up on-board. Technology Award.<br>
+**[SEA:ME Hackathon 2026](https://github.com/JaGyeong1024/SEA-ME-Hackathon-Clothoid-S)** <sub>2026.07.14 – 2026.07.16</sub> — Team lead, system architecture and perception for a camera-only scale car on a Telechips TOPST board: sign, lane and ArUco detectors in a single ROS 2 perception node with a control watchdog; YOLO26 also brought up on-board. Technology Award.<br>
 `ROS 2 Humble` · `YOLO26` · `Telechips`
 
-**[Multi-Rover Factory Control(2025.09.~2026.06.)](https://github.com/JaGyeong1024/Multi-Rover-Localization-and-Factory-Control)** — Capstone design, team lead: host-side localization and control for a leader–follower rover fleet, fusing UWB, ceiling-camera (YOLO11n-OBB) and IMU with an EKF, plus a real-time web control dashboard.<br>
+**[Multi-Rover Factory Control](https://github.com/JaGyeong1024/Multi-Rover-Localization-and-Factory-Control)** <sub>2025.09 – 2026.06</sub> — Capstone design, team lead: host-side localization and control for a leader–follower rover fleet, fusing UWB, ceiling-camera (YOLO11n-OBB) and IMU with an EKF, plus a real-time web control dashboard.<br>
 `ROS 2 Humble` · `EKF` · `UWB · Camera · IMU`
 
-**KSAE FSD 2025 (2025.09.~2025.11.)** — Perception: camera–LiDAR detection and fusion for the team's autonomous vehicle.<br>
+**KSAE FSD 2025** <sub>2025.09 – 2025.11 · Simulation</sub> — Perception: camera–LiDAR detection and fusion for the team's autonomous vehicle.<br>
 `Camera–LiDAR Fusion`
 
-**[Emergency Vehicle Warning System (2026.04.~2026.05.)](https://github.com/JaGyeong1024/Satellite-Navigation-System-Project)** — Course project (Satellite Navigation Systems), team lead: warns when an emergency vehicle is approaching in the same lane behind, from RTK / DGPS trajectories logged with a u-blox ZED-F9P and replayed on a map.<br>
+**[Emergency Vehicle Warning System](https://github.com/JaGyeong1024/Satellite-Navigation-System-Project)** <sub>2026.04 – 2026.05</sub> — Course project (Satellite Navigation Systems), team lead: warns when an emergency vehicle is approaching in the same lane behind, from RTK / DGPS trajectories logged with a u-blox ZED-F9P and replayed on a map.<br>
 `GNSS / RTK` · `u-blox ZED-F9P` · `Python`
 
-**[Sensor Fusion Performance Comparison(2025.03.~2025.06.)](https://github.com/JaGyeong1024/UROP-Sensor-Fusion-Performance-Comparison)** — Independent UROP study comparing camera–LiDAR fusion strategies on an OC-SORT tracking pipeline, with ONNX export for deployment.<br>
+**[Sensor Fusion Performance Comparison](https://github.com/JaGyeong1024/UROP-Sensor-Fusion-Performance-Comparison)** <sub>2025.03 – 2025.06</sub> — Independent UROP study comparing camera–LiDAR fusion strategies on an OC-SORT tracking pipeline, with ONNX export for deployment.<br>
 `PyTorch` · `ONNX` · `KITTI` · `Camera–LiDAR`
 
 ---
