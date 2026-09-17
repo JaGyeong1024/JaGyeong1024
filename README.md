@@ -22,7 +22,7 @@
 | Year | Competition | Result | Role |
 |---|---|---|---|
 | 2026 | [SEA:ME Hackathon](https://github.com/JaGyeong1024/SEA-ME-Hackathon-Clothoid-S) | **Technology Award** | Team&nbsp;lead |
-| 2025 | Autonomous Driving Racing Competition | [**1st** - Grand Prize](assets/awards/2025-autonomous-driving-racing.pdf) | Perception&nbsp;lead |
+| 2025 | Autonomous Driving Racing Competition <sub>CBNU · intramural</sub> | [**1st** - Grand Prize](assets/awards/2025-autonomous-driving-racing.pdf) | Perception&nbsp;lead |
 | 2025 | [4th International Student EV Autonomous Driving Competition](https://github.com/JaGyeong1024/2025-Clothoid-R-Perception-JEJU) | [**2nd** - Jeju Nat'l Univ. President's Award](assets/awards/2025-international-student-ev-autonomous-driving.pdf) | Perception&nbsp;lead |
 | 2024 | AUTORACE | [**1st** - Minister of Education Award](assets/awards/2024-autorace.pdf) | Member |
 | 2024 | Autonomous Robot Race | [**2nd** - Grand Prize](assets/awards/2024-autonomous-robot-race.pdf) | Member |
