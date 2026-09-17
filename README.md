@@ -17,6 +17,18 @@
 
 ---
 
+## 🏆 Awards
+
+| Year | Competition | Result | Role |
+|---|---|---|---|
+| 2026 | [SEA:ME Hackathon](https://github.com/JaGyeong1024/SEA-ME-Hackathon-Clothoid-S) | **Technology Award** | Team&nbsp;lead |
+| 2025 | Autonomous Driving Racing Competition | **1st** - Grand Prize | Perception&nbsp;lead |
+| 2025 | [4th International Student EV Autonomous Driving Competition](https://github.com/JaGyeong1024/2025-Clothoid-R-Perception-JEJU) | **2nd** - Jeju Nat'l Univ. President's Award | Perception&nbsp;lead |
+| 2024 | AUTORACE | **1st** - Minister of Education Award | Member |
+| 2024 | Autonomous Robot Race | **2nd** - Grand Prize | Member |
+
+---
+
 ## 🚗 Projects
 
 **[HL FMA 2026 (Future Mobility Award)](https://github.com/JaGyeong1024/2026-HL-FMA-VTD)** <sub>2026.08.13. ~ 2026.09.12. · Simulation</sub> - Team lead, system architecture and Autoware integration: an Autoware stack driving in the VTD simulator over a custom ROS 2 `vtd_autoware_bridge`, with route injection, traffic-light handling, a control watchdog and mock regression tests.<br>
@@ -36,18 +48,6 @@
 
 **[Sensor Fusion Performance Comparison](https://github.com/JaGyeong1024/UROP-Sensor-Fusion-Performance-Comparison)** <sub>2025.03. ~ 2025.06.</sub> - Independent UROP study comparing camera-LiDAR fusion strategies on an OC-SORT tracking pipeline, with ONNX export for deployment.<br>
 `PyTorch` · `ONNX` · `KITTI` · `Camera-LiDAR`
-
----
-
-## 🏆 Awards
-
-| Year | Competition | Result | Role |
-|---|---|---|---|
-| 2026 | SEA:ME Hackathon | **Technology Award** | Team&nbsp;lead |
-| 2025 | Autonomous Driving Racing Competition | **1st** - Grand Prize | Perception&nbsp;lead |
-| 2025 | 4th International Student EV Autonomous Driving Competition | **2nd** - Jeju Nat'l Univ. President's Award | Perception&nbsp;lead |
-| 2024 | AUTORACE | **1st** - Minister of Education Award | Member |
-| 2024 | Autonomous Robot Race | **2nd** - Grand Prize | Member |
 
 ---
 
