@@ -22,32 +22,35 @@
 | Year | Competition | Result | Role |
 |---|---|---|---|
 | 2026 | [SEA:ME Hackathon](https://github.com/JaGyeong1024/SEA-ME-Hackathon-Clothoid-S) | **Technology Award** | Team&nbsp;lead |
-| 2025 | Autonomous Driving Racing Competition <sub>CBNU · intramural</sub> | [**1st** - Grand Prize](assets/awards/2025-autonomous-driving-racing.pdf) | Perception&nbsp;lead |
-| 2025 | [4th International Student EV Autonomous Driving Competition](https://github.com/JaGyeong1024/2025-Clothoid-R-Perception-JEJU) | [**2nd** - Jeju Nat'l Univ. President's Award](assets/awards/2025-international-student-ev-autonomous-driving.pdf) | Perception&nbsp;lead |
-| 2024 | [AUTORACE](https://github.com/JaGyeong1024/2024-AUTORACE) | [**1st** - Minister of Education Award](assets/awards/2024-autorace.pdf) | Member |
-| 2024 | Autonomous Robot Race | [**2nd** - Grand Prize](assets/awards/2024-autonomous-robot-race.pdf) | Member |
+| 2025 | Autonomous Driving Racing Competition <sub>CBNU · intramural</sub> | [**1st place** (최우수상)](assets/awards/2025-autonomous-driving-racing.pdf) | Perception&nbsp;lead |
+| 2025 | [4th International Student EV Autonomous Driving Competition](https://github.com/JaGyeong1024/2025-Clothoid-R-Perception-JEJU) | [**2nd place** · Jeju Nat'l Univ. President's Award](assets/awards/2025-international-student-ev-autonomous-driving.pdf) | Perception&nbsp;lead |
+| 2024 | [AUTORACE](https://github.com/JaGyeong1024/2024-AUTORACE) | [**1st place** · Minister of Education Award](assets/awards/2024-autorace.pdf) | Member |
+| 2024 | Autonomous Robot Race | [**2nd place** (최우수상)](assets/awards/2024-autonomous-robot-race.pdf) | Member |
 
 ---
 
 ## 🚗 Projects
 
+**[Clothoid-R Perception 2026](https://github.com/JaGyeong1024/2026-Clothoid-R-Perception)** <sub>2026.05. ~ 2026.10. · 1/2-scale EV</sub> - Perception lead: restructured the team's ROS perception stack into camera YOLO, Livox-camera fusion, Livox-only and Velodyne BEV channels, each assigned to a requirement as primary, secondary or fallback; Livox Horizon ground segmentation shared by the C++ and Python nodes for dense static obstacles such as cone walls; profiling-driven latency and CPU reduction without changing outputs; a recording and resource-monitoring harness; a Docker environment for the team.<br>
+`ROS` · `LiDAR` · `Camera-LiDAR Fusion` · `Docker`
+
 **[HL FMA 2026 (Future Mobility Award)](https://github.com/JaGyeong1024/2026-HL-FMA-VTD)** <sub>2026.08.13. ~ 2026.09.12. · Simulation</sub> - Team lead, system architecture and Autoware integration: an Autoware stack driving in the VTD simulator over a custom ROS 2 `vtd_autoware_bridge`, with route injection, traffic-light handling, a control watchdog and mock regression tests.<br>
 `Autoware` · `ROS 2` · `VTD`
 
-**[SEA:ME Hackathon 2026](https://github.com/JaGyeong1024/SEA-ME-Hackathon-Clothoid-S)** <sub>2026.07.14. ~ 2026.07.16.</sub> - Team lead, system architecture and perception for a camera-only scale car on a Telechips TOPST board: sign, lane and ArUco detectors in a single ROS 2 perception node with a control watchdog; YOLO26 also brought up on-board. Technology Award.<br>
-`ROS 2 Humble` · `YOLO26` · `Telechips`
+**[SEA:ME Hackathon 2026](https://github.com/JaGyeong1024/SEA-ME-Hackathon-Clothoid-S)** <sub>2026.07.14. ~ 2026.07.16.</sub> - Team lead, system architecture and perception for a camera-only scale car on a Telechips TOPST board: sign, lane and ArUco detectors in a single ROS 2 perception node with a control watchdog; YOLO26 pruned and INT8-quantized with ONNX Runtime for CPU-only on-board inference. Technology Award.<br>
+`ROS 2 Humble` · `YOLO26` · `ONNX Runtime` · `Telechips`
 
-**[Emergency Vehicle Warning System](https://github.com/JaGyeong1024/Satellite-Navigation-System-Project)** <sub>2026.04. ~ 2026.06.</sub> - Course project (Satellite Navigation Systems), team lead: warns when an emergency vehicle is approaching in the same lane behind, from RTK / DGPS trajectories logged with a u-blox ZED-F9P and replayed on a map.<br>
+**[Emergency Vehicle Warning System](https://github.com/JaGyeong1024/Satellite-Navigation-System-Project)** <sub>2026.04. ~ 2026.05.</sub> - Course project (Satellite Navigation Systems), team lead: warns when an emergency vehicle is approaching in the same lane behind, from RTK / DGPS trajectories logged with a u-blox ZED-F9P and replayed on a map.<br>
 `GNSS / RTK` · `u-blox ZED-F9P` · `Python`
 
-**[Multi-Rover Factory Control](https://github.com/JaGyeong1024/Multi-Rover-Localization-and-Factory-Control)** <sub>2025.09. ~ 2026.06.</sub> - Capstone design, team lead: host-side localization and control for a leader-follower rover fleet, fusing UWB, ceiling-camera (YOLO11n-OBB) and IMU with an EKF, plus a real-time web control dashboard.<br>
+**[Multi-Rover Factory Control](https://github.com/JaGyeong1024/Multi-Rover-Localization-and-Factory-Control)** <sub>2025.09. ~</sub> - Capstone design, team lead: host-side localization for a leader-follower rover fleet, fusing UWB, ceiling-camera (YOLO11n-OBB) and IMU with an EKF, a Digital Twin control dashboard, and host-rover time sync and ROS 2 interfaces.<br>
 `ROS 2 Humble` · `EKF` · `UWB · Camera · IMU`
 
 **KSAE FSD 2025** <sub>2025.09. ~ 2025.11. · Simulation</sub> - Perception: camera-LiDAR detection and fusion for the team's autonomous vehicle.<br>
 `Camera-LiDAR Fusion`
 
-**[Sensor Fusion Performance Comparison](https://github.com/JaGyeong1024/UROP-Sensor-Fusion-Performance-Comparison)** <sub>2025.03. ~ 2025.06.</sub> - Independent UROP study comparing camera-LiDAR fusion strategies on an OC-SORT tracking pipeline, with ONNX export for deployment.<br>
-`PyTorch` · `ONNX` · `KITTI` · `Camera-LiDAR`
+**[Sensor Fusion Performance Comparison](https://github.com/JaGyeong1024/UROP-Sensor-Fusion-Performance-Comparison)** <sub>2025.03. ~ 2025.06.</sub> - Independent UROP study comparing early, mid and late camera-LiDAR fusion for multi-object tracking on KITTI with a SORT tracker.<br>
+`PyTorch` · `KITTI` · `Camera-LiDAR`
 
 ---
 
@@ -67,7 +70,6 @@
     <th align="right">AI / ML</th>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-5A3B35?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorRT-2F4A3A?style=for-the-badge&logo=nvidia&logoColor=white" />
       <img src="https://img.shields.io/badge/ONNX-243447?style=for-the-badge&logo=onnx&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-27453F?style=for-the-badge&logo=opencv&logoColor=white" />
       <img src="https://img.shields.io/badge/NumPy-433C57?style=for-the-badge&logo=numpy&logoColor=white" />
