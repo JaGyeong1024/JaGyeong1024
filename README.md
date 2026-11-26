@@ -56,7 +56,7 @@
 
 ---
 
-## 🛠 Stack
+## 🛠 Tools I use
 
 <div align="center">
 
