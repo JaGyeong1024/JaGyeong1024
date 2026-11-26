@@ -21,6 +21,8 @@
 
 | Year | Competition | Result | Role |
 |---|---|---|---|
+| 2026 | [5th Chungbuk AI Showcase](https://github.com/JaGyeong1024/Multi-Rover-Localization-and-Factory-Control) <sub>Chungbuk AI Industry Association</sub> | [**Encouragement Award** (장려상)](assets/awards/2026-chungbuk-ai-showcase.pdf) | Team&nbsp;lead |
+| 2026 | [Capstone Design Competition](https://github.com/JaGyeong1024/Multi-Rover-Localization-and-Factory-Control) <sub>CBNU · College of Electrical &amp; Computer Engineering</sub> | [**Excellence Award** (최우수상)](assets/awards/2026-capstone-design.pdf) | Team&nbsp;lead |
 | 2026 | [SEA:ME Hackathon](https://github.com/JaGyeong1024/SEA-ME-Hackathon-Clothoid-S) | **Technology Award** | Team&nbsp;lead |
 | 2025 | Autonomous Driving Racing Competition <sub>CBNU · intramural</sub> | [**1st place** (최우수상)](assets/awards/2025-autonomous-driving-racing.pdf) | Perception&nbsp;lead |
 | 2025 | [4th International Student EV Autonomous Driving Competition](https://github.com/JaGyeong1024/2025-Clothoid-R-Perception-JEJU) | [**2nd place** · Jeju Nat'l Univ. President's Award](assets/awards/2025-international-student-ev-autonomous-driving.pdf) | Perception&nbsp;lead |
@@ -43,7 +45,7 @@
 **[Emergency Vehicle Warning System](https://github.com/JaGyeong1024/Satellite-Navigation-System-Project)** <sub>2026.04. ~ 2026.05.</sub> - Course project (Satellite Navigation Systems), team lead: warns when an emergency vehicle is approaching in the same lane behind, from RTK / DGPS trajectories logged with a u-blox ZED-F9P and replayed on a map.<br>
 `GNSS / RTK` · `u-blox ZED-F9P` · `Python`
 
-**[Multi-Rover Factory Control](https://github.com/JaGyeong1024/Multi-Rover-Localization-and-Factory-Control)** <sub>2025.09. ~</sub> - Capstone design, team lead: host-side localization for a leader-follower rover fleet, fusing UWB, ceiling-camera (YOLO11n-OBB) and IMU with an EKF, a Digital Twin control dashboard, and host-rover time sync and ROS 2 interfaces.<br>
+**[Multi-Rover Factory Control](https://github.com/JaGyeong1024/Multi-Rover-Localization-and-Factory-Control)** <sub>2025.09. ~</sub> - Capstone design, team lead: host-side localization for a leader-follower rover fleet, fusing UWB, ceiling-camera (YOLO11n-OBB) and IMU with an EKF, a Digital Twin control dashboard, and host-rover time sync and ROS 2 interfaces. Capstone Design Excellence Award (최우수상), Chungbuk AI Showcase Encouragement Award (장려상).<br>
 `ROS 2 Humble` · `EKF` · `UWB · Camera · IMU`
 
 **KSAE FSD 2025** <sub>2025.09. ~ 2025.11. · Simulation</sub> - Perception: camera-LiDAR detection and fusion for the team's autonomous vehicle.<br>
